@@ -9,7 +9,7 @@ This repository documents my learning and experience with Azure API Management (
 
 ![image](https://github.com/user-attachments/assets/2335edb2-9f7b-405a-9db6-7995a67584a3)
 
-- After the API Management service was successfully created, I configured the OpenAPI API by providing the OpenAPI specification link: [OpenAPI Link](https://petstore3.swagger.io/api/v3/openapi.json).
+- After the API Management service was successfully created, I configured the OpenAPI API by providing the OpenAPI link: [Click Here](https://petstore3.swagger.io/api/v3/openapi.json).
 
 ![image](https://github.com/user-attachments/assets/c3e8db1c-c8ca-4e1f-9bba-d86e303c11ae)
 
